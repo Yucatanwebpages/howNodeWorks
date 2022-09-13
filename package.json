@@ -1,0 +1,11 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-loop.js",
+  "scripts": {
+    "start": "nodemon event-loop.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
